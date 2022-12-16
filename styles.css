@@ -1,0 +1,287 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+
+html {
+    background: #212529;
+}
+
+main {
+    background: #212529;
+}
+
+h2 {
+    color: white;
+}
+
+h6 {
+    color: white;
+}
+
+h5 {
+    color: white;
+}
+
+h4 {
+    color: white;
+}
+
+h3 {
+    color: white;
+}
+
+a {
+    font-size: large;
+    margin-block: -5px;
+}
+
+p {
+    color: white;
+}
+
+h2#destaques.destaques {
+    padding-top: 20px;
+}
+
+p.card-text {
+    color: black;
+    align-items: center;
+    text-align: center;
+}
+
+.header {
+    background: #212529;
+}
+
+img.navbar-brand {
+    width: 120px;
+    height: 35px;
+    margin-right: 25px;
+}
+
+ul.navbar-nav {
+    margin-right: 12px;
+}
+
+.container {
+    text-align: justify;
+}
+
+.carousel-item {
+    color: white;
+    font-size: 14px;
+}
+
+div.dropdown {
+    min-height: 40px;
+}
+
+div.carousel-indicators {
+    margin-top: 20px;
+}
+
+.container-info {
+    margin-right: 18%;
+    margin-bottom: 10%;
+}
+
+@media screen and (max-width: 992px) {
+    .carousel-item img {
+        width: 80%;
+        padding-left: 20%;
+    }
+
+    .container-info {
+        margin-top: 10%;
+        padding-left: 10%;
+        margin-right: 18%;
+        margin-bottom: 10%;
+    }
+}
+
+.btnLan {
+    margin: 15px;
+}
+
+div.container.titulo {
+    margin-bottom: 15px;
+}
+
+div.lanContainer {
+    margin-top: 50px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+div.card {
+    background-color: #212529;
+    border: 0ch;
+}
+
+p.card-text {
+    color: white;
+}
+
+.gamex {
+    font-size: larger;
+    color: white;
+}
+
+.hyperlink,
+.hyperlink:hover {
+    color: white;
+    text-decoration: none;
+}
+
+.hyperlink2,
+.hyperlink2:hover {
+    color: white;
+    float: right;
+}
+
+h2#plataformas.plataformas {
+    padding: 20px;
+}
+
+div.btnPlat {
+    padding-top: 20px;
+}
+
+h2#publishers.publishers {
+    padding: 20px;
+    margin-bottom: 0px;
+    margin-top: 30px;
+}
+
+.img-circle {
+    min-height: 200px;
+
+}
+
+p.plat-text {
+    margin-bottom: 5px;
+}
+
+p.pub-text {
+    margin-bottom: 5px;
+}
+
+div.col-12.plaTopicos {
+    margin-top: 10px;
+    margin-bottom: -10px;
+    padding-left: 0px;
+}
+
+div.col-12.pubTopicos {
+    margin-top: 10px;
+    margin-bottom: -10px;
+    padding-left: 0px;
+}
+
+.scoregx {
+    color: white;
+    font-size: larger;
+    padding-right: 20px;
+    text-align: right;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 100%;
+}
+
+.profile-header-container {
+    margin: 0 auto;
+    text-align: left;
+    margin-top: 0;
+}
+
+.profile-header-img {
+    padding: 54px;
+}
+
+img.img-circle {
+    width: 100%;
+    height: 100%;
+}
+
+.fa {
+    color: white;
+    width: 50px;
+    font-size: 40px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+    margin: 10px;
+}
+
+.fa:hover {
+    opacity: 0.8;
+}
+
+.footertext {
+    margin-top: 15px;
+    align-self: center;
+    color: #212529;
+}
+
+.nomejogo {
+    font-size: 150%;
+    margin-bottom: 15px;
+}
+
+.destaques {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+div.pubContainer {
+    background-color: rgb(85, 85, 85);
+    margin-left: 40px;
+    margin-right: 40px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+h3.redsoc {
+    font-size: large;
+    margin-bottom: 0px;
+}
+
+div.containerSobre {
+    margin-left: 45px;
+    margin-right: 45px;
+    margin-top: 20px;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+
+div.col-8.sobTex {
+    padding-right: 40px;
+}
+
+.fa-solid.type1 {
+    color: white;
+}
+
+div.sobrr {
+    font-size: smaller;
+}
+
+.txth {
+    margin-bottom: 0px;
+}
+
+.txt {
+    font-size: small;
+    margin-bottom: -3px;
+}
+
+p.footertext {
+    margin: 0px;
+    font-size: small;
+    text-align: left;
+}
